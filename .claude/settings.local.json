@@ -7,7 +7,9 @@
       "Bash(git push *)",
       "Bash(powershell *)",
       "Bash(python3 *)",
-      "Bash(python cleanup.py)"
+      "Bash(python cleanup.py)",
+      "Bash(git checkout *)",
+      "Bash(python cleanup2.py)"
     ]
   }
 }
